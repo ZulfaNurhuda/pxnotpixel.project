@@ -1,0 +1,68 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Documents
+*.md text
+*.txt text
+*.json text
+*.yml text
+*.yaml text
+*.xml text
+*.csv text
+
+# Scripts
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Source code
+*.c text
+*.cpp text
+*.h text
+*.hpp text
+*.py text
+*.js text
+*.jsx text
+*.ts text
+*.tsx text
+*.java text
+*.go text
+*.rs text
+*.php text
+
+# Docker
+Dockerfile text
+*.dockerfile text
+
+# Graphics / binary files (do not diff/merge)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.pdf binary
+
+# Archives
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+
+# Fonts
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+
+# Executables / compiled
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+
+# Jupyter notebooks (linguist tweak, optional)
+*.ipynb linguist-documentation
+
+# Mark generated files (optional)
+dist/* linguist-generated=true
+build/* linguist-generated=true
