@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="837.45" height="1316.25" viewBox="0 0 837.45 1316.25" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g id="relationships">
+<path d="M 217.45 242.25 L 297.45 242.25 L 297.45 51.25 L 339.45 51.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 347.45 51.25 L 339.45 47.25 L 339.45 55.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 57.45 272.25 L 17.45 272.25 L 17.45 81.25 L 49.45 81.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 57.45 81.25 L 49.45 77.25 L 49.45 85.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 507.45 81.25 L 599.45 81.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 607.45 81.25 L 599.45 77.25 L 599.45 85.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 347.45 351.25 L 307.45 351.25 L 307.45 51.25 L 339.45 51.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 347.45 51.25 L 339.45 47.25 L 339.45 55.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 217.45 441.25 L 267.45 441.25 L 267.45 321.25 L 339.45 321.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 347.45 321.25 L 339.45 317.25 L 339.45 325.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 217.45 641.25 L 277.45 641.25 L 277.45 321.25 L 339.45 321.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 347.45 321.25 L 339.45 317.25 L 339.45 325.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 217.45 761.25 L 287.45 761.25 L 287.45 321.25 L 339.45 321.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 347.45 321.25 L 339.45 317.25 L 339.45 325.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 607.45 321.25 L 515.45 321.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 507.45 321.25 L 515.45 317.25 L 515.45 325.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 767.45 351.25 L 807.45 351.25 L 807.45 441.25 L 775.45 441.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 767.45 441.25 L 775.45 437.25 L 775.45 445.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 607.45 601.25 L 547.45 601.25 L 547.45 321.25 L 515.45 321.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 507.45 321.25 L 515.45 317.25 L 515.45 325.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 347.45 805.25 L 297.45 805.25 L 297.45 321.25 L 339.45 321.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 347.45 321.25 L 339.45 317.25 L 339.45 325.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 347.45 1081.25 L 287.45 1081.25 L 287.45 775.25 L 339.45 775.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 347.45 775.25 L 339.45 771.25 L 339.45 779.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 607.45 941.25 L 547.45 941.25 L 547.45 775.25 L 515.45 775.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 507.45 775.25 L 515.45 771.25 L 515.45 779.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+<path d="M 217.45 1271.25 L 277.45 1271.25 L 277.45 775.25 L 339.45 775.25" fill="none" stroke="#62501b" stroke-width="1.5"/>
+<path d="M 347.45 775.25 L 339.45 771.25 L 339.45 779.25 Z" fill="#62501b" stroke="#62501b" stroke-width="1"/>
+</g>
+<g id="entities">
+<g id="maintainer">
+<rect x="57.45" y="40.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="57.45" y="66.25" width="160.0" height="90.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="137.45" y="58.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">maintainer</text>
+<text x="67.45" y="85.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">maintainer_id</text>
+<text x="67.45" y="115.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">username</text>
+<line x1="57.45" y1="96.25" x2="217.45" y2="96.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="145.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">joined_at</text>
+<line x1="57.45" y1="126.25" x2="217.45" y2="126.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="package">
+<rect x="347.45" y="10.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="347.45" y="36.25" width="160.0" height="120.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="427.45" y="28.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">package</text>
+<text x="357.45" y="55.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">package_id</text>
+<text x="357.45" y="85.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">organization_id</text>
+<line x1="347.45" y1="66.25" x2="507.45" y2="66.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="115.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">name</text>
+<line x1="347.45" y1="96.25" x2="507.45" y2="96.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="145.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">lifecycle_status</text>
+<line x1="347.45" y1="126.25" x2="507.45" y2="126.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="maintained_by">
+<rect x="57.45" y="201.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="57.45" y="227.25" width="160.0" height="60.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="137.45" y="219.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">maintained_by</text>
+<text x="67.45" y="246.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">package_id</text>
+<text x="67.45" y="276.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">maintainer_id</text>
+<line x1="57.45" y1="257.25" x2="217.45" y2="257.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="organization">
+<rect x="607.45" y="40.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="607.45" y="66.25" width="160.0" height="90.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="687.45" y="58.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">organization</text>
+<text x="617.45" y="85.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">organization_id</text>
+<text x="617.45" y="115.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">name</text>
+<line x1="607.45" y1="96.25" x2="767.45" y2="96.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="617.45" y="145.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">display_name</text>
+<line x1="607.45" y1="126.25" x2="767.45" y2="126.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="release">
+<rect x="347.45" y="280.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="347.45" y="306.25" width="160.0" height="330.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="427.45" y="298.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">release</text>
+<text x="357.45" y="325.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">release_id</text>
+<text x="357.45" y="355.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">package_id</text>
+<line x1="347.45" y1="336.25" x2="507.45" y2="336.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="385.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">version</text>
+<line x1="347.45" y1="366.25" x2="507.45" y2="366.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="415.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">created</text>
+<line x1="347.45" y1="396.25" x2="507.45" y2="396.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="445.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">is_prerelease</text>
+<line x1="347.45" y1="426.25" x2="507.45" y2="426.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="475.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">yanked</text>
+<line x1="347.45" y1="456.25" x2="507.45" y2="456.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="505.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">yanked_reason</text>
+<line x1="347.45" y1="486.25" x2="507.45" y2="486.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="535.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">lifecycle_status</text>
+<line x1="347.45" y1="516.25" x2="507.45" y2="516.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="565.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">summary</text>
+<line x1="347.45" y1="546.25" x2="507.45" y2="546.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="595.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">license</text>
+<line x1="347.45" y1="576.25" x2="507.45" y2="576.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="625.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">requires_python</text>
+<line x1="347.45" y1="606.25" x2="507.45" y2="606.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="project_link">
+<rect x="57.45" y="400.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="57.45" y="426.25" width="160.0" height="120.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="137.45" y="418.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">project_link</text>
+<text x="67.45" y="445.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">release_id</text>
+<text x="67.45" y="475.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">label</text>
+<line x1="57.45" y1="456.25" x2="217.45" y2="456.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="505.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">url</text>
+<line x1="57.45" y1="486.25" x2="217.45" y2="486.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="535.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">is_verified</text>
+<line x1="57.45" y1="516.25" x2="217.45" y2="516.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="release_keyword">
+<rect x="57.45" y="600.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="57.45" y="626.25" width="160.0" height="60.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="137.45" y="618.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">release_keyword</text>
+<text x="67.45" y="645.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">release_id</text>
+<text x="67.45" y="675.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">keyword</text>
+<line x1="57.45" y1="656.25" x2="217.45" y2="656.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="release_extra">
+<rect x="57.45" y="720.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="57.45" y="746.25" width="160.0" height="60.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="137.45" y="738.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">release_extra</text>
+<text x="67.45" y="765.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">release_id</text>
+<text x="67.45" y="795.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">extra_name</text>
+<line x1="57.45" y1="776.25" x2="217.45" y2="776.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="classifier">
+<rect x="607.45" y="400.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="607.45" y="426.25" width="160.0" height="90.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="687.45" y="418.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">classifier</text>
+<text x="617.45" y="445.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">classifier_id</text>
+<text x="617.45" y="475.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">category</text>
+<line x1="607.45" y1="456.25" x2="767.45" y2="456.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="617.45" y="505.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">value</text>
+<line x1="607.45" y1="486.25" x2="767.45" y2="486.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="tagged_with">
+<rect x="607.45" y="280.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="607.45" y="306.25" width="160.0" height="60.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="687.45" y="298.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">tagged_with</text>
+<text x="617.45" y="325.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">release_id</text>
+<text x="617.45" y="355.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">classifier_id</text>
+<line x1="607.45" y1="336.25" x2="767.45" y2="336.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="release_detail">
+<rect x="607.45" y="560.25" width="200.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="607.45" y="586.25" width="200.0" height="240.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="707.45" y="578.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">release_detail</text>
+<text x="617.45" y="605.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">release_id</text>
+<text x="617.45" y="635.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">description</text>
+<line x1="607.45" y1="616.25" x2="807.45" y2="616.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="617.45" y="665.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">meta_author</text>
+<line x1="607.45" y1="646.25" x2="807.45" y2="646.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="617.45" y="695.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">meta_author_email</text>
+<line x1="607.45" y1="676.25" x2="807.45" y2="676.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="617.45" y="725.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">meta_author_email_verified</text>
+<line x1="607.45" y1="706.25" x2="807.45" y2="706.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="617.45" y="755.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">meta_maintainer</text>
+<line x1="607.45" y1="736.25" x2="807.45" y2="736.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="617.45" y="785.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">meta_maintainer_email</text>
+<line x1="607.45" y1="766.25" x2="807.45" y2="766.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="617.45" y="815.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">meta_maintainer_email_verified</text>
+<line x1="607.45" y1="796.25" x2="807.45" y2="796.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="release_file">
+<rect x="347.45" y="734.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="347.45" y="760.25" width="160.0" height="240.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="427.45" y="752.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">release_file</text>
+<text x="357.45" y="779.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">release_file_id</text>
+<text x="357.45" y="809.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">release_id</text>
+<line x1="347.45" y1="790.25" x2="507.45" y2="790.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="839.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">filename</text>
+<line x1="347.45" y1="820.25" x2="507.45" y2="820.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="869.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">path</text>
+<line x1="347.45" y1="850.25" x2="507.45" y2="850.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="899.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">size</text>
+<line x1="347.45" y1="880.25" x2="507.45" y2="880.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="929.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">upload_time</text>
+<line x1="347.45" y1="910.25" x2="507.45" y2="910.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="959.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">uploaded_via</text>
+<line x1="347.45" y1="940.25" x2="507.45" y2="940.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="357.45" y="989.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">is_trusted_publishing</text>
+<line x1="347.45" y1="970.25" x2="507.45" y2="970.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="release_file_tag">
+<rect x="347.45" y="1040.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="347.45" y="1066.25" width="160.0" height="60.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="427.45" y="1058.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">release_file_tag</text>
+<text x="357.45" y="1085.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">release_file_id</text>
+<text x="357.45" y="1115.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">wheel_tag</text>
+<line x1="347.45" y1="1096.25" x2="507.45" y2="1096.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="file_hash">
+<rect x="607.45" y="900.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="607.45" y="926.25" width="160.0" height="90.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="687.45" y="918.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">file_hash</text>
+<text x="617.45" y="945.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">release_file_id</text>
+<text x="617.45" y="975.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">algorithm</text>
+<line x1="607.45" y1="956.25" x2="767.45" y2="956.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="617.45" y="1005.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">digest</text>
+<line x1="607.45" y1="986.25" x2="767.45" y2="986.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+<g id="attestation">
+<rect x="57.45" y="870.25" width="160.0" height="26.0" fill="#d4af37" stroke="#62501b" stroke-width="1"/>
+<rect x="57.45" y="896.25" width="160.0" height="390.0" fill="#ffffff" stroke="#62501b" stroke-width="1"/>
+<text x="137.45" y="888.25" font-family="Helvetica, Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#000000">attestation</text>
+<text x="67.45" y="915.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000" text-decoration="underline">sigstore_log_index</text>
+<text x="67.45" y="945.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">statement_type</text>
+<line x1="57.45" y1="926.25" x2="217.45" y2="926.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="975.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">predicate_type</text>
+<line x1="57.45" y1="956.25" x2="217.45" y2="956.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="1005.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">subject_name</text>
+<line x1="57.45" y1="986.25" x2="217.45" y2="986.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="1035.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">subject_digest</text>
+<line x1="57.45" y1="1016.25" x2="217.45" y2="1016.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="1065.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">integration_time</text>
+<line x1="57.45" y1="1046.25" x2="217.45" y2="1046.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="1095.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">source_repo</text>
+<line x1="57.45" y1="1076.25" x2="217.45" y2="1076.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="1125.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">source_reference</text>
+<line x1="57.45" y1="1106.25" x2="217.45" y2="1106.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="1155.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">token_issuer</text>
+<line x1="57.45" y1="1136.25" x2="217.45" y2="1136.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="1185.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">runner_environment</text>
+<line x1="57.45" y1="1166.25" x2="217.45" y2="1166.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="1215.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">publisher_workflow</text>
+<line x1="57.45" y1="1196.25" x2="217.45" y2="1196.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="1245.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">trigger_event</text>
+<line x1="57.45" y1="1226.25" x2="217.45" y2="1226.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+<text x="67.45" y="1275.25" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#000000">release_file_id</text>
+<line x1="57.45" y1="1256.25" x2="217.45" y2="1256.25" stroke="#62501b" stroke-width="0.5" stroke-opacity="0.35"/>
+</g>
+</g>
+</svg>
