@@ -1,0 +1,6 @@
+# Environments
+.env*
+!.env.example
+
+# PostgreSQL persistent data
+005_01_docker/pg_data/

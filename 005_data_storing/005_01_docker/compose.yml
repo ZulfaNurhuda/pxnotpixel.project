@@ -1,0 +1,48 @@
+name: pxnotpixel
+services:
+  px_postgres:
+    image: postgres:18
+    container_name: px_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: px_user
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD di file .env}
+      POSTGRES_DB: px_db
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - ./pg_data:/var/lib/postgresql
+      - ./init:/docker-entrypoint-initdb.d:ro
+      - ../005_02_export:/export
+    command:
+      - "postgres"
+      - "-c"
+      - "max_connections=100"
+      - "-c"
+      - "shared_buffers=512MB"
+      - "-c"
+      - "effective_cache_size=1536MB"
+      - "-c"
+      - "work_mem=8MB"
+      - "-c"
+      - "maintenance_work_mem=256MB"
+      - "-c"
+      - "wal_buffers=16MB"
+      - "-c"
+      - "checkpoint_completion_target=0.9"
+      - "-c"
+      - "max_wal_size=2GB"
+      - "-c"
+      - "min_wal_size=512MB"
+      - "-c"
+      - "random_page_cost=1.1"
+      - "-c"
+      - "effective_io_concurrency=200"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-h", "localhost", "-p", "5432", "-U", "px_user", "-d", "px_db"]
+      interval: 60s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+    mem_limit: 2048M
+    cpus: 2
